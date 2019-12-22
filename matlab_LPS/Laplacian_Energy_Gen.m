@@ -1,5 +1,5 @@
 % **********************************************************
-% Author: Yiqun Wang(Õı“›»∫)
+% Author: Yiqun Wang(√ç√µ√í√ù√à¬∫)
 % https://github.com/yiqun-wang/LPS
 % **********************************************************
 function [E, Cf] = Laplacian_Energy_Gen(V, F, k)
@@ -49,6 +49,7 @@ C = V' * A* shape.VERT;
 
 Cf = D * sqrt(sum(C.^2,2));
 Cf = Cf'; 
+E = 0;
 end
 
 
