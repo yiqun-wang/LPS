@@ -49,7 +49,7 @@ C = V' * A* shape.VERT;
 
 Cf = D * sqrt(sum(C.^2,2));
 Cf = Cf'; 
-E = 0;
+E = zeros(floor(k),shape.n);
 end
 
 
