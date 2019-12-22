@@ -245,7 +245,7 @@ namespace GIGen
 						}
 						out << std::endl;
 					}
-					if (ch==num/2-1 || ch==num-1) { out << std::endl; }
+					if ((ch+1) % 4 == 0) { out << std::endl; }
 				}
 
 				out << std::endl << std::endl;
