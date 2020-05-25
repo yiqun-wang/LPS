@@ -8,7 +8,7 @@ by Yiqun Wang, Jianwei Guo, Dong-Ming Yan, Kai Wang, Xiaopeng Zhang.
 
 [Project Page](http://www.nlpr.ia.ac.cn/ivc/project/specmathcing/)
 
-Please consider citing the above paper if you use the code/program (or part of it). 
+Please consider citing the above paper if this code/program (or part of it) benefits your project. 
 
 
 ## Usage	  
